@@ -1,4 +1,4 @@
-![image](https://github.com/AqilSafarov/AzIntelecomProject/assets/75013710/766f62c6-70a1-4514-9671-3f8cf5a5f0b5)# AzIntelecomProject
+
 
 <p align="center"><a href="https://github.com/AqilSafarov/AzIntelecomProject/tree/master">Download project slide</a></p>
 
