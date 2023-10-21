@@ -11,7 +11,7 @@
 - [x] Ticketin process flow-un qurulması 
 - [x] Şifrə siyasətinin yaradılması
 
-* **Active Directory mühitinin yaradılması**
+* **Active Directory həftəsi**
 - [x] Domain Controller
 - [x] OU və GPO nun yaradılması 
 - [x] Password policy-nin tədbiq olunması
