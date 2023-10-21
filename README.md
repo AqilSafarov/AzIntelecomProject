@@ -8,5 +8,25 @@
 
 * **GRC həftəsi**
 - [x] İsidentlərin idarəolunması prosesinin qurulması
-- [x] Ticketin process flow-un qurulması ![image](https://github.com/AqilSafarov/AzIntelecomProject/assets/75013710/d20b3ec6-b945-470c-beb3-9e36c1528169)
-- [x] Şifrə siyasətinin yaradılması![image](https://github.com/AqilSafarov/AzIntelecomProject/assets/75013710/07c1318f-9c0f-435f-a15d-692443b9e92d)
+- [x] Ticketin process flow-un qurulması 
+- [x] Şifrə siyasətinin yaradılması
+
+* **Active Directory mühitinin yaradılması**
+- [x] Domain Controller
+- [x] OU və GPO nun yaradılması 
+- [x] Password policy-nin tədbiq olunması
+- [x] Linux üzərində “Samba” və “LAMP” serverlərin quraşdırılması
+
+* **SOC/SIEM həftəsi**
+- [x] OWASP top 10-ə aid rule-ların yazılması
+- [x] Bildiriş sisteminin SİEM-ə inteqrasya ilə qurulması
+- [x] Password policy-nin tədbiq olunması
+- [x] Yazılmış rullara görə hücumların detect olubması
+
+* **Pentest həftəsi**
+- [x] Yaradılmış maşını pentest etmək və flag-i tapmaq
+- [x] APK fayldakı flagi tapmaq
+- [x] Göndərilmiş yeni maşındakı flag-i  tapmaq
+- [x] Binary fayldkı flag-i tapmaq
+
+
